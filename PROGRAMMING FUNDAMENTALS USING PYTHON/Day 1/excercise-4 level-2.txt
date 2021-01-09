@@ -1,0 +1,14 @@
+for(counter=1, counter<=3, counter=counter+1)
+	add mountain
+end-for
+
+for(counter=1, counter<=2, counter=counter+1)
+	add sheep
+end-for
+
+add tree
+display snow
+display rain
+display moon
+display nightsky
+
