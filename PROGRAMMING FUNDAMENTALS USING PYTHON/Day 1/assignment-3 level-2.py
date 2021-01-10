@@ -2,8 +2,8 @@
 #This verification is based on string match.
 
 mileage=12
-amount_per_litre=65
-distance_one_way=96
+amount_per_litre=40
+distance_one_way=190
 per_head_cost=0
 divisible_by_five=False
 
